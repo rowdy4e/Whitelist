@@ -6,4 +6,5 @@
 `sm_wl save` Manually saves whitelist config. *Config is saved automatically when plugin ends.* 
 
 ### Info
-- Config path is `configs/whitelist.cfg`
+- Config path is `configs/whitelist.cfg`.
+- Cvar config path is `cfg/sourcemod/whitelist.cfg`.
